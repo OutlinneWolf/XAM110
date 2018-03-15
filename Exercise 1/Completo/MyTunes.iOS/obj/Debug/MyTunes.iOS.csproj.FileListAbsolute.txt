@@ -1,0 +1,14 @@
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\bin\Debug\MyTunesiOS.exe
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\bin\Debug\MyTunesiOS.pdb
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\actool\_PartialAppManifest.items
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\optimized\
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\MyTunes.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\MyTunes.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\MyTunes.iOS.csproj.CopyComplete
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\MyTunesiOS.exe
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM110\Exercise 1\Start\MyTunes.iOS\obj\Debug\MyTunesiOS.pdb
